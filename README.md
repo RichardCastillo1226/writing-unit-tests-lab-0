@@ -8,7 +8,7 @@
 3. For each problem, first write the unit tests in the `exercises.test.js` file.
 4. Then, run `npm test` to ensure the test case you just wrote FAILS! This is because you have not written the code for the tests yet.
 5. Once you've written the tests for a problem, implement your solution to the problem in `exercises.js` so that it passes all test cases before moving on to the next problem.
-6. Repeat Steps 3 through 5 for each problem until you have finished all problems and all test cases are correctly written and are passing.
+6. Repeat Steps 3 through 5 for each problem until you have finished all problems and all test cases are correctly written and are passing. 
 
 When you are done, push your final commits and submit through Canvas.
 
